@@ -1,0 +1,3 @@
+C:\workspace\Morr\Morr\CommonData\bin\Release\netcoreapp3.1\publish\CommonData.dll
+C:\workspace\Morr\Morr\CommonData\bin\Release\netcoreapp3.1\publish\CommonData.deps.json
+C:\workspace\Morr\Morr\CommonData\bin\Release\netcoreapp3.1\publish\CommonData.pdb

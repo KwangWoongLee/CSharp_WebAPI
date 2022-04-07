@@ -1,0 +1,9 @@
+C:\workspace\Morr\Morr\API_Server\obj\Release\netcoreapp3.1\PubTmp\Out\API_Server.exe
+C:\workspace\Morr\Morr\API_Server\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\workspace\Morr\Morr\API_Server\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\workspace\Morr\Morr\API_Server\obj\Release\netcoreapp3.1\PubTmp\Out\API_Server.dll
+C:\workspace\Morr\Morr\API_Server\obj\Release\netcoreapp3.1\PubTmp\Out\API_Server.deps.json
+C:\workspace\Morr\Morr\API_Server\obj\Release\netcoreapp3.1\PubTmp\Out\API_Server.runtimeconfig.json
+C:\workspace\Morr\Morr\API_Server\obj\Release\netcoreapp3.1\PubTmp\Out\API_Server.pdb
+C:\workspace\Morr\Morr\API_Server\obj\Release\netcoreapp3.1\PubTmp\Out\CommonData.dll
+C:\workspace\Morr\Morr\API_Server\obj\Release\netcoreapp3.1\PubTmp\Out\CommonData.pdb

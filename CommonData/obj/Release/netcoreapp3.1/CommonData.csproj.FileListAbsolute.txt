@@ -1,0 +1,10 @@
+C:\workspace\Morr\Morr\CommonData\bin\Release\netcoreapp3.1\CommonData.deps.json
+C:\workspace\Morr\Morr\CommonData\bin\Release\netcoreapp3.1\CommonData.dll
+C:\workspace\Morr\Morr\CommonData\bin\Release\netcoreapp3.1\CommonData.pdb
+C:\workspace\Morr\Morr\CommonData\obj\Release\netcoreapp3.1\CommonData.csproj.AssemblyReference.cache
+C:\workspace\Morr\Morr\CommonData\obj\Release\netcoreapp3.1\CommonData.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Morr\Morr\CommonData\obj\Release\netcoreapp3.1\CommonData.AssemblyInfoInputs.cache
+C:\workspace\Morr\Morr\CommonData\obj\Release\netcoreapp3.1\CommonData.AssemblyInfo.cs
+C:\workspace\Morr\Morr\CommonData\obj\Release\netcoreapp3.1\CommonData.csproj.CoreCompileInputs.cache
+C:\workspace\Morr\Morr\CommonData\obj\Release\netcoreapp3.1\CommonData.dll
+C:\workspace\Morr\Morr\CommonData\obj\Release\netcoreapp3.1\CommonData.pdb
